@@ -1,3 +1,5 @@
+set -e
+
 img_dir=~/Pictures/Bing
 mkdir -p $img_dir
 
